@@ -6,12 +6,13 @@ here you see our first attempt at a inventory system.
 # Install
 You can use it, but beware that update paths might not be available in the future.
 
-1) insert into new database : setup.sql
-2) copy & modify :  /application/config.php.default -> /application/config.php
-3) copy & modify :  /application/database.php.default -> /application/database.php
-4) copy & modify :  /application/routes.php.default -> /application/routes.php
-5) browse to the location
+1) insert into new database : setup.sql<br />
+2) copy & modify :  /application/config.php.default -> /application/config.php<br />
+3) copy & modify :  /application/database.php.default -> /application/database.php<br />
+4) copy & modify :  /application/routes.php.default -> /application/routes.php<br />
+5) browse to the location<br />
 
+<br />
 
 # Credits
 There is little magic happening here, most of this code base is wonderfully taken from the internet and works nicely.
